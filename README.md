@@ -1,4 +1,4 @@
-# Open Source Contribution Roadmap
+# Open Source Contribution Roadmap 2025
 
 ![Open Source Banner](https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80)
 
@@ -32,7 +32,7 @@
 
 ## Introduction
 
-Welcome to the Open Source Contribution Roadmap! This comprehensive guide is designed to help developers at all levels navigate the world of open source contributions. Whether you're a beginner looking to make your first pull request or an experienced developer wanting to maintain your own project, this roadmap provides structured guidance for your open source journey.
+Welcome to the Open Source Contribution Roadmap! Developers of all skill levels will find this tutorial an invaluable resource for understanding and participating in the open source community. This roadmap offers a systematic direction for everyone starting out in the open source contribution.
 
 > "Open source is not just about code; it's about collaboration, community, and creating something greater than any individual could achieve alone."
 
